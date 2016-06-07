@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_payu_integration'
-  s.version     = '3.0.0'
+  s.version     = '3.0.1'
   s.summary     = 'Spree integration with PayU.'
   s.description = 'Spree integration with PayU.'
   s.required_ruby_version = '>= 1.9.3'
